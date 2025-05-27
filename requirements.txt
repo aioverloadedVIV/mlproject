@@ -1,5 +1,7 @@
 numpy
 pandas 
 seaborn
-
--e . #To connect with setup.py
+matplotlib
+catboost
+xgboost
+#-e . #To connect with setup.py
